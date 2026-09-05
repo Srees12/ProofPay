@@ -11,7 +11,6 @@ Double-click `start-proofpay.bat` after cloning the repository. It creates `.ven
 GitHub cannot directly launch a local application from a repository page. The batch file is the local one-click entrypoint after the repository has been cloned.
 
 
-
 API docs: `http://localhost:8000/docs`
 
 
