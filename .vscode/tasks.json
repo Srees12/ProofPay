@@ -1,0 +1,18 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Start Razorpay Sentinel",
+      "type": "shell",
+      "command": "${workspaceFolder}\\start-sentinel.bat",
+      "windows": {
+        "command": "${workspaceFolder}\\start-sentinel.bat"
+      },
+      "problemMatcher": [],
+      "presentation": {
+        "reveal": "never",
+        "panel": "dedicated"
+      }
+    }
+  ]
+}

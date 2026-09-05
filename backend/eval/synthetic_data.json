@@ -1,0 +1,22 @@
+[
+  {"id":"case_01","amount":48500,"reason_code":"13.1_NON_RECEIPT","proof":true,"failure":false,"expected":"AUTO_SUBMITTED"},
+  {"id":"case_02","amount":210000,"reason_code":"13.1_NON_RECEIPT","proof":true,"failure":false,"expected":"ESCALATED_HUMAN_REVIEW"},
+  {"id":"case_03","amount":75000,"reason_code":"13.1_NON_RECEIPT","proof":false,"failure":false,"expected":"REJECTED_INSUFFICIENT_EVIDENCE"},
+  {"id":"case_04","amount":12500,"reason_code":"10.4_FRAUD_CARD_ABSENT","proof":true,"failure":false,"expected":"AUTO_SUBMITTED"},
+  {"id":"case_05","amount":35000,"reason_code":"13.1_NON_RECEIPT","proof":true,"failure":true,"expected":"REJECTED_INSUFFICIENT_EVIDENCE"},
+  {"id":"case_06","amount":151000,"reason_code":"10.4_FRAUD_CARD_ABSENT","proof":true,"failure":false,"expected":"ESCALATED_HUMAN_REVIEW"},
+  {"id":"case_07","amount":90000,"reason_code":"13.1_NON_RECEIPT","proof":true,"failure":false,"expected":"AUTO_SUBMITTED"},
+  {"id":"case_08","amount":149999,"reason_code":"10.4_FRAUD_CARD_ABSENT","proof":true,"failure":false,"expected":"AUTO_SUBMITTED"},
+  {"id":"case_09","amount":3000,"reason_code":"13.1_NON_RECEIPT","proof":false,"failure":false,"expected":"REJECTED_INSUFFICIENT_EVIDENCE"},
+  {"id":"case_10","amount":500000,"reason_code":"13.1_NON_RECEIPT","proof":true,"failure":true,"expected":"ESCALATED_HUMAN_REVIEW"},
+  {"id":"case_11","amount":65000,"reason_code":"10.4_FRAUD_CARD_ABSENT","proof":true,"failure":false,"expected":"AUTO_SUBMITTED"},
+  {"id":"case_12","amount":150001,"reason_code":"13.1_NON_RECEIPT","proof":true,"failure":false,"expected":"ESCALATED_HUMAN_REVIEW"},
+  {"id":"case_13","amount":44000,"reason_code":"10.4_FRAUD_CARD_ABSENT","proof":true,"failure":true,"expected":"ESCALATED_HUMAN_REVIEW"},
+  {"id":"case_14","amount":8000,"reason_code":"13.1_NON_RECEIPT","proof":false,"failure":false,"expected":"REJECTED_INSUFFICIENT_EVIDENCE"},
+  {"id":"case_15","amount":110000,"reason_code":"10.4_FRAUD_CARD_ABSENT","proof":true,"failure":false,"expected":"AUTO_SUBMITTED"},
+  {"id":"case_16","amount":99999,"reason_code":"13.1_NON_RECEIPT","proof":true,"failure":false,"expected":"AUTO_SUBMITTED"},
+  {"id":"case_17","amount":175000,"reason_code":"10.4_FRAUD_CARD_ABSENT","proof":true,"failure":false,"expected":"ESCALATED_HUMAN_REVIEW"},
+  {"id":"case_18","amount":22000,"reason_code":"13.1_NON_RECEIPT","proof":true,"failure":true,"expected":"REJECTED_INSUFFICIENT_EVIDENCE"},
+  {"id":"case_19","amount":67000,"reason_code":"10.4_FRAUD_CARD_ABSENT","proof":true,"failure":false,"expected":"AUTO_SUBMITTED"},
+  {"id":"case_20","amount":10000,"reason_code":"13.1_NON_RECEIPT","proof":false,"failure":false,"expected":"REJECTED_INSUFFICIENT_EVIDENCE"}
+]
