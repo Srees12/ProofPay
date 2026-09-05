@@ -4,6 +4,12 @@ Evidence. Intelligence. Resolution.
 
 Enterprise-style prototype of an AI-powered payment dispute intelligence and resolution platform.
 
+## Live Demo
+
+**Public deployment:** Pending deployment on Render.
+
+Once deployed, replace the line above with the public frontend URL so judges can open ProofPay directly. The GitHub repository contains the source code and deployment configuration; the live site is hosted separately.
+
 ## One-click start on Windows
 
 Double-click `start-proofpay.bat` after cloning the repository. It creates `.venv` if needed, installs frontend dependencies if needed, waits for both services, and opens the dashboard at `http://127.0.0.1:5173/`.
